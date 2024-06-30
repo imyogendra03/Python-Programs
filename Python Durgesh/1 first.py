@@ -1,0 +1,5 @@
+print("Hello World")
+help('keywords')
+help('modules')
+help("symbols")
+help("!=")
